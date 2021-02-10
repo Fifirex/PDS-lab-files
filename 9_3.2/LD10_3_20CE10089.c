@@ -1,6 +1,3 @@
-//RollNo.: 20CE10089
-//Name: Yash Saraswat
-
 #include<stdio.h>
 #include<string.h>          //to use strcmp()
 
@@ -80,6 +77,6 @@ int main()
       printf("\n\n");                                                 //formatting
   }
   else
-    printf("\n INVALID INPUT FOR n (should be in the range [1,10])\n\n");  //error message 
+    printf("\n INVALID INPUT FOR n (should be in the range [1,10])\n\n");  //error message
   return 0;
 }

@@ -1,6 +1,3 @@
-//RollNo.: 20CE10089
-//Name: Yash Saraswat
-
 #include<stdio.h>
 #include<math.h>
 

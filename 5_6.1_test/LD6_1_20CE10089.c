@@ -1,6 +1,3 @@
-//RollNo.: 20CE10089
-//Name: Yash Saraswat
-
 #include<stdio.h>
 
 int sumof(int n)                        //function that returns the sum of digits of the integer passed
