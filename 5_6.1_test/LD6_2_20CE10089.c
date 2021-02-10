@@ -1,6 +1,3 @@
-//RollNo.: 20CE10089
-//Name: Yash Saraswat
-
 #include<stdio.h>
 #include<stdlib.h>      //to use rand() and srand()
 #include<time.h>        //to use time()

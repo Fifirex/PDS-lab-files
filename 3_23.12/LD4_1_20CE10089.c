@@ -1,6 +1,3 @@
-//RollNo.: 20CE10089
-//Name: Yash Saraswat
-
 #include<stdio.h>
 
 void output(long int a)   //function to give the numbers in words
@@ -22,7 +19,7 @@ void output(long int a)   //function to give the numbers in words
 
 int main()
 {
-  long int n;        
+  long int n;
   printf("\n Enter the number : ");
   scanf("%ld",&n);
   printf(" ");
