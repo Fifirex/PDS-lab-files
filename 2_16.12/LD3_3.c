@@ -21,7 +21,7 @@ int main()
             printf("\nNew f2 : %0.2f",f2);
             printf("\nNew f3 : %0.2f\n\n",f3);
             break;
-    case 2: if(f1==0&&f2==0)
+    case 2: if(f1==0&&f2==0 || f1==0)
               printf("\nQuadratic not possible\n\n");
             else
             {
